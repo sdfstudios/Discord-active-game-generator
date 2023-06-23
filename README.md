@@ -1,5 +1,8 @@
 # Discord-active-game-generator
-This program will allow you to put any game in your discord profile
+This program will allow you to put any game in your Discord profile
+
+# Download progam
+[Download](https://github.com/sdfstudios/Discord-active-game-generator/raw/master/bin/Release/net6.0-windows/publish/win-x64/Discord%20active%20game%20generator.exe)
 
 # How to work this program?
 1.Write in the text field the desired game that should be displayed in the discord and click confirm
