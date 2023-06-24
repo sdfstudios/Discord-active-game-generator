@@ -38,5 +38,16 @@ namespace fordiscord
         {
 
         }
+
+        protected override void OnFormClosing(FormClosingEventArgs e)
+        {
+            MessageBox.Show("The program will run in the background. to completely close it, close it in the task manager", "Wait", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            Form form = this;
+            form.Hide();
+            e.Cancel = true;
+        }
+                         
+      
+
     }
 }
