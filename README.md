@@ -15,4 +15,4 @@ Ready
 
 ![Image alt](https://github.com/sdfstudios/Discord-active-game-generator/blob/master/Screenshots/Screenshot%202023-06-23%20235826.png)
 
-**Warning: Keep the program open. in the future I will add it to work in the background**
+
